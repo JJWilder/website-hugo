@@ -1,0 +1,73 @@
+baseURL = "https://jjwilder.xyz"
+languageCode = "en-us"
+DefaultContentLanguage = "en-us"
+title = "JJ Wilder and His Magnificent Fork"
+author = "JJ Wilder"
+enableInlineShortcodes = true
+pageinate = 3
+footnoteReturnLinkContents = "^"
+theme = "casper3"
+
+
+
+[params]
+  description = "A Story of Sorts" # Displays on index pages including Home and Tags/Categories List
+  mainSections = [ "posts" ] # Folder in content/ that posts are in
+  #facebook = "https://facebook.com" # Links on site wide footer
+  #twitter = "https://twitter.com/" # Links on site wide footer
+  #github = "https://github.com/jonathanjanssens" # Links on site wide footer
+  logo = "" # Will replace the Site Title with an image
+  feature_image = "" # replace all posts without image with this one
+
+[menu]
+  [[menu.main]]
+    identifier = "define-fork"
+    name = "Definition"
+    url = "/to-define-a-fork/"
+    weight = 10
+  [[menu.main]]
+    identifier = "fork-feed"
+    name = "Feed the World"
+    url = "/fork-feed/"
+    weight = 20
+  [[menu.main]]
+    identifier = "buster"
+    name = "Buster"
+    url = "/buster/"
+    weight = 30
+  [[menu.main]]
+    identifier = "author"
+    name = "Author Homepage"
+    url = "https://jjwilder.xyz"
+    weight = 40
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
