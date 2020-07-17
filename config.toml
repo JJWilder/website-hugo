@@ -15,7 +15,7 @@ theme = "casper3"
   mainSections = [ "posts" ] # Folder in content/ that posts are in
   #facebook = "https://facebook.com" # Links on site wide footer
   #twitter = "https://twitter.com/" # Links on site wide footer
-  #github = "https://github.com/jonathanjanssens" # Links on site wide footer
+  github = "https://github.com/JJWilder" # Links on site wide footer
   logo = "" # Will replace the Site Title with an image
   feature_image = "" # replace all posts without image with this one
 
