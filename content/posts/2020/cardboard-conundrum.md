@@ -10,9 +10,9 @@ draft = true
 +++
 
 
-###### “What’s the use you learning to do right, when it’s troublesome to do right and isn’t no trouble to do wrong, and the wages is just the same?”  
-*- The Adventures of Huckleberry Finn* by Mark Twain  
-
+**"What’s the use you learning to do right, when it’s troublesome to do right and isn’t no trouble to do wrong, and the wages is just the same?”**  
+*- The Adventures of Huckleberry Finn* by Mark Twain
+<!--more-->
 ---
 June 23rd, 2020 marked the end of an era. Our cardboard cache was removed and presumably destroyed. A ridiculous act which was no doubt fueled by a political agenda and an enlarged pancreas. Our cardboard was the lifeblood of our warehouse, a monument of greatness. It was my last hope to keep Zeckos great again, and that has been lost.
 

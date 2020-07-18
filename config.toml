@@ -17,29 +17,24 @@ theme = "casper3"
   #twitter = "https://twitter.com/" # Links on site wide footer
   github = "https://github.com/JJWilder" # Links on site wide footer
   logo = "" # Will replace the Site Title with an image
-  feature_image = "" # replace all posts without image with this one
+  feature_image = "" # replace posts without image with this one
 
 [menu]
   [[menu.main]]
     identifier = "define-fork"
     name = "Definition"
-    url = "/to-define-a-fork/"
+    url = "/define-a-fork/"
     weight = 10
   [[menu.main]]
     identifier = "fork-feed"
     name = "Feed the World"
-    url = "/fork-feed/"
+    url = "/feed-the-world/"
     weight = 20
   [[menu.main]]
     identifier = "buster"
     name = "Buster"
     url = "/buster/"
     weight = 30
-  [[menu.main]]
-    identifier = "author"
-    name = "Author Homepage"
-    url = "https://jjwilder.xyz"
-    weight = 40
 
 [taxonomies]
 category = "categories"
