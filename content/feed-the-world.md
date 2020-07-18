@@ -1,7 +1,7 @@
 +++
 title = "A Fork to Feed the World"
 date = 2020-07-10T20:37:45-04:00
-author = "JJ Wilder"
+#author = "JJ Wilder"
 url = "/feed-the-world/"
 feature_image = "/images/feed-the-world.jpg"
 summary = "you can do more with a fork than just paint..."
