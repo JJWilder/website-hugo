@@ -6,7 +6,7 @@ url = "/cardboard-conundrum/"
 feature_image = "/images/cardboard-conundrum.jpg"
 summary = ""
 tags = [ "Zeckos" ]
-draft = true
+draft = false
 +++
 
 

@@ -6,8 +6,8 @@ url = "/define-a-fork/"
 #feature_image = "/images/fork.jpg"
 #summary = "About the Fork"
 description = "About the Fork"
-tags = [ "Buster" ]
-draft = true
+tags = [ "" ]
+draft = false
 +++
 
 **fork** (*noun*)

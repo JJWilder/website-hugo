@@ -6,9 +6,9 @@ url = "/buster/"
 #feature_image = "/images/buster.png" # leave blank for no image
 summary = "a travel companion" # text showing next to posts on list pages and also below post title on single pages
 tags = [ "" ] # only primary tag shows on posts
-draft = true
+draft = false
 +++
 
 Buster is bold, Buster is brave, Buster is not blue.  
 
-Well
+Well Buster will be known soon!
