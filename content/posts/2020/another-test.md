@@ -14,7 +14,7 @@ draft = true
 
 You guessed it!!    
 
-###### *powered by* [**Hugo**](https://gohugo.io)
+###### *powered by* [**Hugo**](https://gohugo.io "Hugo")
 
 [pic]: https://pixls.us/blog/2017/06/g-mic-2-0/Shrouded_in_clouds.jpg "Clouds are coming"
 
