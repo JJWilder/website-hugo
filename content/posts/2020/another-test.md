@@ -6,7 +6,7 @@ url = "/another-test/"
 feature_image = "/images/2020/another-test.png"
 summary = ""
 tags = [ "Test Tag", "Zeckos" ]
-categories = [ "Zark" ]
+#categories = [ "Test" ]
 draft = true
 +++
 

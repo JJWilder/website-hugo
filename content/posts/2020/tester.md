@@ -6,12 +6,14 @@ url = "/tester/"
 feature_image = "/images/2020/tester.jpg"
 #summary = "This is only a summary of the TEST"
 tags = [ "Test Tag" ]
+#categories = [ "Test" ]
 draft = true
 +++
 
 ## This is a test!!!
 
-This is a test of your emergency broadcast system!!!!
+This is a test of your emergency broadcast system!!!!  
+Only above more flag will show in thumbnail/list view.
 <!--more-->
 
 “What’s the use you learning to do right, when it’s troublesome to do right and isn’t no trouble to do wrong, and the wages is just the same?”  
