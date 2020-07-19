@@ -17,7 +17,7 @@ theme = "casper3"
   #twitter = "https://twitter.com/" # Links on site wide footer
   github = "https://github.com/JJWilder" # Links on site wide footer
   logo = "" # Will replace the Site Title with an image
-  feature_image = "" # replace posts without image with this one
+  feature_image = "" # replace all pages without image with this one
 
 [menu]
   [[menu.main]]
