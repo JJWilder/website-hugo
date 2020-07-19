@@ -5,7 +5,7 @@ author = "JJ Wilder"
 url = "/cardboard-conundrum/"
 feature_image = "/images/2020/cardboard-conundrum.jpg"
 summary = ""
-tags = [ "Zeckos" ]
+tags = [ "zeckos" ]
 draft = false
 +++
 

@@ -5,7 +5,7 @@ author = "JJ Wilder"
 url = "/paint-the-frog/"
 feature_image = "/images/2020/paint-the-frog.jpg"
 summary = ""
-tags = [ "Fork Painting" ]
+tags = [ "fork-painting" ]
 draft = false
 +++
 

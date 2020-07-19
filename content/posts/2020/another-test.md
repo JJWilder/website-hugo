@@ -5,7 +5,7 @@ date = 2020-07-11T00:59:05-04:00
 url = "/another-test/"
 feature_image = "/images/2020/another-test.png"
 summary = ""
-tags = [ "Test Tag", "Zeckos" ]
+tags = [ "test-tag", "zeckos" ]
 #categories = [ "Test" ]
 draft = true
 +++
