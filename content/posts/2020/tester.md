@@ -16,4 +16,4 @@ This is a test of your emergency broadcast system!!!!
 Only above more flag will show in thumbnail/list view.
 <!--more-->
 
-But if the summary field is used in front matter, then the above text will also show below title on single post pages.
+But if the summary field is used in front matter, then the above text will also show below title on single post
