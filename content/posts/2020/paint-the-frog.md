@@ -4,7 +4,7 @@ date = 2020-07-09T23:58:08-04:00
 author = "JJ Wilder"
 url = "/paint-the-frog/"
 feature_image = "/images/2020/paint-the-frog.jpg"
-summary = ""
+summary = "the journey begins"
 tags = [ "fork-painting" ]
 draft = false
 +++
