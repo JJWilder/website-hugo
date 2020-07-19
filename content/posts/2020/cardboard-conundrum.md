@@ -6,6 +6,7 @@ url = "/cardboard-conundrum/"
 feature_image = "/images/2020/cardboard-conundrum.jpg"
 summary = ""
 tags = [ "zeckos" ]
+categories = [ "Zeckos" ]
 draft = false
 +++
 

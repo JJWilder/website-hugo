@@ -6,6 +6,7 @@ url = "/paint-the-frog/"
 feature_image = "/images/2020/paint-the-frog.jpg"
 summary = "the journey begins"
 tags = [ "fork-painting" ]
+categories = [ "Fork Painting" ]
 draft = false
 +++
 

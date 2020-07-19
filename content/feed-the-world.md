@@ -7,6 +7,7 @@ feature_image = "/images/feed-the-world.jpg"
 summary = "you can do more with a fork than just paint..."
 description = ""
 tags = [ "" ]
+categories = [ "" ]
 draft = false
 +++
 

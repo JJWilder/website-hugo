@@ -6,6 +6,7 @@ url = "/buster/"
 feature_image = "/images/buster.jpg" # leave blank for no image
 summary = "a travel companion" # text showing next to posts on list pages and also below post title on single pages
 tags = [ "buster" ] # only primary tag shows on posts
+categories = [ "Buster" ]
 draft = false
 +++
 
