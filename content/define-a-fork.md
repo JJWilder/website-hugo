@@ -1,7 +1,6 @@
 +++
 title = "To Define a Fork"
 date = 2020-07-10T20:12:33-04:00
-#author = "JJ Wilder"
 url = "/define-a-fork/"
 #feature_image = "/images/fork.jpg"
 #summary = "About the Fork"
