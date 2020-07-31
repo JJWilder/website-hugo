@@ -1,3 +1,3 @@
 +++
-feature_image = "/images/forks.jpg" #background image on homepage
+feature_image = "/images/forkbgblur.png" #background image on homepage
 +++
