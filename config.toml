@@ -6,7 +6,7 @@ author = "JJ Wilder"
 enableInlineShortcodes = true
 pageinate = 3
 footnoteReturnLinkContents = "^"
-theme = "hugo-casper3"
+theme = "casper3"
 
 
 
