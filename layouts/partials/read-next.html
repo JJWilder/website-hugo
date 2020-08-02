@@ -2,7 +2,7 @@
     {{ $primaryTag := (index . 0) }}
     <article class="read-next-card">
         <header class="read-next-card-header">
-            <h3><span>More in</span> <a href="{{ "/tags/" | relLangURL }}{{ $primaryTag | urlize }}">{{ $primaryTag }}</a></h3>
+            <h3><span>More in</span> <a href="{{ "/tags/" | relLangURL }}{{ $primaryTag | urlize }}">{{ replace $primaryTag "-" " " }}</a></h3>
         </header>
         <div class="read-next-card-content">
             <ul>

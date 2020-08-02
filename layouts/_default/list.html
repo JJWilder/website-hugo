@@ -7,7 +7,7 @@
 
     {{- partial "header-background.html" $ -}}
         <div class="inner site-header-content">
-            <h1 class="site-title">{{ .Title | title }}</h1>
+            <h1 class="site-title">{{ replace .Title "-" " " | title }}</h1>
             <h2 class="site-description">
                 {{ if .Param "description" }}
                     {{ .Param "description" }}
