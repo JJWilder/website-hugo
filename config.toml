@@ -11,13 +11,13 @@ theme = "casper3"
 
 
 [params]
-  description = "A Story of Sorts" # Displays on index pages including Home and Tags/Categories List
+  description = "A Story of Sorts" # Displays on list pages including Home and Tags/Categories List
   mainSections = [ "posts" ] # Folder in content/ that posts are in
   #facebook = "https://facebook.com" # Links on site wide footer
   #twitter = "https://twitter.com/" # Links on site wide footer
   github = "https://github.com/JJWilder" # Links on site wide footer
   logo = "" # Will replace the Site Title with an image
-  feature_image = "" # replace all pages without image with this one
+  feature_image = "" # replace all pages without image with this one, front matter feature_image must be commented out not left blank
 
 [menu]
   [[menu.main]]
