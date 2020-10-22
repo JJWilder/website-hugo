@@ -7,7 +7,7 @@ feature_image = "/images/2020/summer-2020.jpg" # leave blank for no image
 summary = "" # summary view text and subheading on post page - do not use with more flag
 tags = [ "life", "summer" ] # lowercase no spaces, only primary shows
 categories = [ "Life", "Summer" ]
-draft = true
+draft = false
 +++
 
 
