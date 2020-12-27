@@ -22,6 +22,6 @@ Buster went racing off down towards the ocean and started rooting around the san
 
 Buster had found his holiday hat!!
 
-The real gifts are not bought and sold. They surround us everyday, it's knowing where to look, rather, how to look. Look deep enough, as hard as it sometimes is, and everything becomes a gift. May you find your gift this season.
+The real gifts are not bought and sold. They surround us everyday, it's knowing where to look, rather, how to look. Dig deep enough, as hard as it sometimes is, and everything becomes a gift. May you find your gift this season.
 
 Happy Holidays!!
