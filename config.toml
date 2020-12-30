@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://jjwilder.xyz/"
 languageCode = "en-us"
 DefaultContentLanguage = "en-us"
 title = "JJ Wilder and His Magnificent Fork"
