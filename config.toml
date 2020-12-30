@@ -9,10 +9,10 @@ footnoteReturnLinkContents = "^"
 theme = "casper3"
 
 
-
 [params]
   description = "A Story of Sorts" # Displays on list pages including Home and Tags/Categories List
   mainSections = [ "posts" ] # Folder in content/ that posts are in
+  headerbg = "/images/headerbg.jpg" # Header image on all list pages
   #facebook = "https://facebook.com" # Links on site wide footer
   #twitter = "https://twitter.com/" # Links on site wide footer
   github = "https://github.com/JJWilder" # Links on site wide footer
