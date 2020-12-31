@@ -10,7 +10,8 @@ theme = "casper3"
 
 
 [params]
-  description = "A Story of Sorts" # Displays on list pages including Home and Tags/Categories List
+  description = "A Man and his Fork...... and Pig" # Displays on Home and any list if list_description not used
+  list_description = "A Story of Sorts" # Displays on Tags list pages, overwrites above 
   mainSections = [ "posts" ] # Folder in content/ that posts are in
   headerbg = "/images/headerbg.jpg" # Header image on all list pages
   #facebook = "https://facebook.com" # Links on site wide footer
@@ -18,6 +19,7 @@ theme = "casper3"
   github = "https://github.com/JJWilder" # Links on site wide footer
   logo = "" # Will replace the Site Title with an image
   #feature_image = "" # replace all pages without image with this one, front matter feature_image must be commented out not left blank
+  tagdesc = "Welpers"
 
 [menu]
   [[menu.main]]
