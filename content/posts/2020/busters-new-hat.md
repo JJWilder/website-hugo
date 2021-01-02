@@ -5,8 +5,8 @@ author = "JJ Wilder"
 url = "/busters-new-hat/"
 feature_image = "/images/2020/busters-new-hat.jpg" # leave blank for no image
 summary = "" # summary view text and subheading on post page - do not use with more flag
-tags = [ "buster", "travel" ] # lowercase no spaces, only primary shows
-categories = [ "Buster", "Travel" ]
+tags = [ "buster", "travel", "life" ] # lowercase no spaces, only primary shows
+categories = [ "Buster", "Travel", "Life" ]
 draft = false
 +++
 
