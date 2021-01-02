@@ -2,7 +2,7 @@
 title = "Goodbye Summer"
 date = "2020-10-20T21:15:17-04:00"
 author = "JJ Wilder"
-url = "/goodbye-summer/"
+url = "/summer-2020/"
 feature_image = "/images/2020/summer-2020.jpg" # leave blank for no image
 summary = "" # summary view text and subheading on post page - do not use with more flag
 tags = [ "life", "summer" ] # lowercase no spaces, only primary shows
