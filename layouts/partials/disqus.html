@@ -10,6 +10,10 @@
                 };
                 
                 (function() { // DON'T EDIT BELOW THIS LINE
+                if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+                    document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+                    return;
+                }
                 var d = document, s = d.createElement('script');
                 s.src = 'https://jjwilder.disqus.com/embed.js';
                 s.setAttribute('data-timestamp', +new Date());
