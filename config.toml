@@ -13,6 +13,7 @@ theme = "casper3"
   list_description = "A Story of Sorts" # Displays on Tags list pages, overwrites above 
   mainSections = [ "posts" ] # Folder in content/ that posts are in
   headerbg = "/images/headerbg.jpg" # Header image on all list pages including Home
+  disqusShortname = "jjwilder"
   #facebook = "https://facebook.com" # Links on site wide footer
   #twitter = "https://twitter.com/" # Links on site wide footer
   github = "https://github.com/JJWilder" # Links on site wide footer
